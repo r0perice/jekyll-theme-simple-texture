@@ -1,10 +1,11 @@
 ---
-layout: page
 title: Categories
+layout: page
 header: Posts By Category
-description: "This page shows a list of categories used in this blog."
+description: This page shows a list of categories used in this blog.
 group: navigation
 ---
+
 {% capture categories %}
     {% for category in site.categories %}
         {{ category[0] }}
