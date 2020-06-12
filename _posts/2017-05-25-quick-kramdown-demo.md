@@ -1,15 +1,16 @@
 ---
 title: Quick kramdown demo
-date: 2017-05-25 00:00:00 Z
+date: 2017-05-25 02:00:00 +02:00
+published: false
 categories:
 - demo
 tags:
 - demo
 - jekyll
-layout: post
 description: A quick demo post to some kramdown features.
 redirect_from:
 - "/2017/05/25/"
+layout: post
 ---
 
 > This is [kramdown][kramdown] formatting test page for [Simple Texture][Simple Texture] theme.
