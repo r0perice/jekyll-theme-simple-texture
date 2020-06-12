@@ -18,7 +18,7 @@ exclude:
 - Rakefile
 - starter-kit
 - vendor
-lang: fr
+lang: en
 permalink: "/blog/:year/:month/:day/:title/"
 whitelist:
 - jekyll-feed
