@@ -1,6 +1,6 @@
 ---
-title: Simple Texture
-timezone: UTC
+title: Robin Péricé's Blog
+timezone: Europe/Paris
 collections:
   posts:
     title: Posts
@@ -18,7 +18,7 @@ exclude:
 - Rakefile
 - starter-kit
 - vendor
-lang: en
+lang: fr
 permalink: "/blog/:year/:month/:day/:title/"
 whitelist:
 - jekyll-feed
