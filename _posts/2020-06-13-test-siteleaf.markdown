@@ -10,4 +10,4 @@ Field name:
 
 blablabla
 
-`class Test {}`
+`java class Test {}`
