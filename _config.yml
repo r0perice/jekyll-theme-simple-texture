@@ -54,13 +54,13 @@ author:
   - name: facebook
     url: 
   - name: github
-    url: https://github.com/yizeng/jekyll-theme-simple-texture
+    url: https://github.com/r0perice
   - name: instagram
     url: 
   - name: linkedin
-    url: 
+    url: https://www.linkedin.com/in/robinperice/
   - name: stackoverflow
-    url: 
+    url: https://stackoverflow.com/users/6124935/robin-perice
   - name: twitter
     url: 
   - name: vk
@@ -81,7 +81,6 @@ disqus:
 google_tag_manager: 
 addthis_public_id: 
 paths:
-  home: "/"
-  blog: "/blog/"
+  home: "/blog/"
   categories: "/blog/categories/"
   tags: "/blog/tags/"
