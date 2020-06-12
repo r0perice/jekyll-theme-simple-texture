@@ -70,7 +70,6 @@ disqus:
 google_tag_manager: 
 addthis_public_id: 
 paths:
-  home: 
   categories: "/blog/categories/"
   tags: "/blog/tags/"
   blog: "/blog/"
