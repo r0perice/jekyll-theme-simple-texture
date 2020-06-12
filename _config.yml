@@ -44,7 +44,7 @@ sass:
 url: 
 baseurl: 
 description: 
-keywords: jekyll,theme,gem-based,blog
+keywords: 
 author:
   name: 
   job_title: 
@@ -59,11 +59,6 @@ author:
     url: https://stackoverflow.com/users/6124935/robin-perice
   - name: twitter
     url: 
-home:
-  section1: "<h1>Simple Texture</h1>"
-  section2: "<h2>A gem-based responsive simple texture styled Jekyll theme</h2>"
-  section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/yizeng/jekyll-theme-simple-texture"
-    title="View on GitHub"></a></div>
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/
   cc_license_image: "/assets/images/theme/cc-by-sa.png"
