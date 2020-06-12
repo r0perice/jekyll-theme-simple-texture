@@ -51,19 +51,13 @@ author:
   location: 
   email: 
   social_links:
-  - name: facebook
-    url: 
   - name: github
     url: https://github.com/r0perice
-  - name: instagram
-    url: 
   - name: linkedin
     url: https://www.linkedin.com/in/robinperice/
   - name: stackoverflow
     url: https://stackoverflow.com/users/6124935/robin-perice
   - name: twitter
-    url: 
-  - name: vk
     url: 
 home:
   section1: "<h1>Simple Texture</h1>"
